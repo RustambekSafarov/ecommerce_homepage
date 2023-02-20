@@ -1,7 +1,8 @@
 # ecommerce_homepage
 
-A new Flutter project.
 ![alt text](https://telegra.ph/file/1ebc9a36678e083e5e9be.png)
+
+A new Flutter project.
 
 ## Getting Started
 
